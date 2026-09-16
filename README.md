@@ -8,5 +8,4 @@ If you are the owner of one of these plugins and would like me to remove it I wi
 
 Plugins:
 
-- Pastelize by
-- Status temp
+- [Pastelize](https://github.com/EKSIF/EKSIF-Vendetta/tree/main/Pastelize%20Cynosphere) by [Cynosphere](https://github.com/cynosphere)

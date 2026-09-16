@@ -6,6 +6,8 @@ I did not make any of these plugins and i will link to the original devs here.
 
 If you are the owner of one of these plugins and would like me to remove it I will.
 
+**I do use AI to help write code**
+
 Plugins:
 
 - [Pastelize](https://github.com/EKSIF/EKSIF-Vendetta/tree/main/Pastelize%20Cynosphere) by [Cynosphere](https://github.com/cynosphere)

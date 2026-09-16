@@ -1,9 +1,12 @@
-# THIS IS NOT MY PLUGIN
+# EKSIF Vendetta Fixes
 
-This plugin is only designed to work for my discord account.
-Feel free to take it and modify it to work for yourself.
+I noticed many Vendetta plugins are just abandoned so I am trying to fix them.
 
+I did not make any of these plugins and i will link to the original devs here.
 
-- I also fixed the options menu
+If you are the owner of one of these plugins and would like me to remove it I will.
 
-original plugin by [Cynosphere](https://github.com/Cynosphere)
+Plugins:
+
+- Pastelize by
+- Status temp
